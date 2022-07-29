@@ -1,4 +1,8 @@
 @media screen and (max-width: 620px) {
+    .cabecalho {
+        padding: 30px 0;
+    }
+    
     .conteudo {
         padding: 0 15px;
         gap: 20px;
