@@ -1,0 +1,12 @@
+body {
+    font-family: 'Outfit', sans-serif;
+
+    background-image: url(../img/fundo-site.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecalho__titulo {
+    font-size: 32px;
+    font-weight: bold;
+}

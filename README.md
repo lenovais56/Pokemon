@@ -1,1 +1,1 @@
-Projeto em andamento com o Canal do youtube: Dev em dobro.
+Projeto em andamento com o canal Dev em dobro.
