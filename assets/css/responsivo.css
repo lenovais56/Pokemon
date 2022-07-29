@@ -1,0 +1,36 @@
+@media screen and (max-width: 620px) {
+    .conteudo {
+        padding: 0 15px;
+        gap: 20px;
+    }
+
+    .btn__seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .conteudo__lista {
+        height: 480px;
+    }
+
+    .item__imagem {
+        max-height: 230px;
+    }
+
+    .item__titulo {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .item__hp {
+        font-size: 14px;
+    }
+
+    .item__descricao--texto {
+        max-height: 100px;
+    }
+}
