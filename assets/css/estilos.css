@@ -72,7 +72,6 @@ body {
     padding: 12px;
     position: absolute;
     transition: opacity 0.3s ease-in-out;
-    width: 100%;
 }
 
 .conteudo__item--selecionado {
